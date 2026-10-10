@@ -101,7 +101,7 @@ export const social = {
 
 // Newest first.
 export const vicars = [
-  { name: 'Capt-Rev JN Jacob', from: '2025', to: 'Present', photo: '/images/vicars/jn-jacob.jpg' },
+  { name: 'Capt-Rev JN Jacob', from: '2025', to: 'Present', photo: '/images/jn-jacob.jpg' },
   { name: 'Capt-Rev JA Milila', from: '2022', to: '2025', photo: '' },
   { name: "Capt-Rev JM Dan'Amariya", from: '2022', to: '2022', photo: '' },
   { name: 'Capt-Rev J Bayei', from: '2019', to: '2022', photo: '' },
